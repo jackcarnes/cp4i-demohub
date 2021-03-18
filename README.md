@@ -10,7 +10,7 @@ PoT - IBM Messaging
 </p>
 
 ## PoT - IBM Messaging
-The course materials can be viewed at- [https://ibm-garage-tsa.github.io/cp4i-demohub/](https://ibm-garage-tsa.github.io/cp4i-demohub/)
+The course materials can be viewed at- [https://jackcarnes.github.io/potlabs/](https://jackcarnes.github.io/potlabs/)
 
 
 ### Contributors
